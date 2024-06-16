@@ -1,0 +1,404 @@
+{
+  "Popular on indee": [
+    {
+      "name": "Shiddat",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner3.png",
+      "year": "2021",
+      "language": "Hindi",
+      "UA": "15",
+      "movieType": "Drama",
+      "desc": "Christopher Nolan's 'Oppenheimer' delves deep into the enigmatic life of the father of the atomic bomb, exploring his complexities and legacy."
+    },
+    {
+      "name": "Beau Is Afraid",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner8.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind ."
+    },
+    {
+      "name": "Air",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner10.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "13",
+      "movieType": "Action",
+      "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind ."
+    },
+    {
+      "name": "Guardians of the Galaxy: Volume 3",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner7.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "13",
+      "movieType": "Action",
+      "desc": "Christopher Nolan's 'Oppenheimer' delves deep into the enigmatic life of the father of the atomic bomb, exploring his complexities and legacy."
+    },
+    {
+      "name": "Are You There God?",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner1.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "15",
+      "movieType": "Comedy",
+      "desc": "Are You There God? Its Me, Margaret'could translate into a heartwarming coming-of-age film, capturing the essence of Judy Blumes beloved novel."
+    },
+    {
+      "name": "Past Lives",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner3.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "15",
+      "movieType": "Drama",
+      "desc": "Past Lives is a 2023 American romantic drama film written and directed by Celine Song in her feature directorial debut.."
+    },
+    {
+      "name": "Polite Society",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner4.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "Polite Society is a 2023 British martial arts action comedy film written and directed by Nida Manzoor. ."
+    },
+    {
+      "name": "Beau Is Afraid",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner8.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind ."
+    },
+
+    {
+      "name": "Robots",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner5.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind ."
+    },
+    {
+      "name": "Talk To Me",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner1.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "13",
+      "movieType": "Horror",
+      "desc": "Polite Society is a 2023 British martial arts action comedy film written and directed by Nida Manzoor. ."
+    },
+    {
+      "name": "About My Father",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner2.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "13",
+      "movieType": "Drama",
+      "desc": "Polite Society is a 2023 British martial arts action comedy film written and directed by Nida Manzoor. ."
+    },
+    {
+      "name": "Big George Foreman",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner6.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Biography",
+      "desc": "Big George Foreman: The Miraculous Story of the Once and Future Heavyweight Champion of the World is a 2023 American biographical sports drama film ."
+    },
+    {
+      "name": "Sanctuary",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner9.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind ."
+    }
+  ],
+  "Trending now": [
+    {
+      "name": "Oppenheimer",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner0.png",
+      "year": "2022",
+      "language": "English",
+      "UA": "14",
+      "movieType": "Drama",
+      "desc": "Christopher Nolan's 'Oppenheimer' delves deep into the enigmatic life of the father of the atomic bomb, exploring his complexities and legacy."
+    },
+    {
+      "name": "Talk To Me",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner1.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "13",
+      "movieType": "Horror",
+      "desc": "Polite Society is a 2023 British martial arts action comedy film written and directed by Nida Manzoor. ."
+    },
+
+    {
+      "name": "Beau Is Afraid",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner8.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind ."
+    },
+    {
+      "name": "Air",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner10.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "13",
+      "movieType": "Action",
+      "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind ."
+    },
+    {
+      "name": "Guardians of the Galaxy: Volume 3",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner7.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "13",
+      "movieType": "Action",
+      "desc": "Christopher Nolan's 'Oppenheimer' delves deep into the enigmatic life of the father of the atomic bomb, exploring his complexities and legacy."
+    },
+    {
+      "name": "Are You There God?",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner1.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "15",
+      "movieType": "Comedy",
+      "desc": "Are You There God? Its Me, Margaret'could translate into a heartwarming coming-of-age film, capturing the essence of Judy Blumes beloved novel."
+    },
+    {
+      "name": "Past Lives",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner3.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "15",
+      "movieType": "Drama",
+      "desc": "Past Lives is a 2023 American romantic drama film written and directed by Celine Song in her feature directorial debut.."
+    },
+    {
+      "name": "Avenger In Cartoon",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner2.png",
+      "year": "2024",
+      "language": "Hindi",
+      "UA": "13",
+      "movieType": "Action",
+      "desc": "Polite Society is a 2024 British martial arts action comedy film written and directed by Nida Manzoor. ."
+    },
+    {
+      "name": "Polite Society",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner4.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "Polite Society is a 2023 British martial arts action comedy film written and directed by Nida Manzoor. ."
+    },
+    {
+      "name": "Beau Is Afraid",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner8.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind ."
+    },
+
+    {
+      "name": "Robots",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner5.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind ."
+    },
+
+    {
+      "name": "About My Father",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner2.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "13",
+      "movieType": "Drama",
+      "desc": "Polite Society is a 2023 British martial arts action comedy film written and directed by Nida Manzoor. ."
+    },
+
+    {
+      "name": "Sanctuary",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner9.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind ."
+    }
+  ],
+  "Tv Shows": [
+    {
+      "name": "The Marverls",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner3.png",
+      "year": "2021",
+      "language": "Hindi",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "Christopher Nolan's 'Oppenheimer' delves deep into the enigmatic life of the father of the atomic bomb, exploring his complexities and legacy."
+    },
+    {
+      "name": "Oppenheimer",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner0.png",
+      "year": "2022",
+      "language": "English",
+      "UA": "14",
+      "movieType": "Drama",
+      "desc": "Christopher Nolan's 'Oppenheimer' delves deep into the enigmatic life of the father of the atomic bomb, exploring his complexities and legacy."
+    },
+    {
+      "name": "Guardians of the Galaxy: Volume 3",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner7.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "13",
+      "movieType": "Action",
+      "desc": "Christopher Nolan's 'Oppenheimer' delves deep into the enigmatic life of the father of the atomic bomb, exploring his complexities and legacy."
+    },
+    {
+      "name": "Are You There God?",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner1.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "15",
+      "movieType": "Comedy",
+      "desc": "Are You There God? Its Me, Margaret'could translate into a heartwarming coming-of-age film, capturing the essence of Judy Blumes beloved novel."
+    },
+    {
+      "name": "Past Lives",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner3.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "15",
+      "movieType": "Drama",
+      "desc": "Past Lives is a 2023 American romantic drama film written and directed by Celine Song in her feature directorial debut.."
+    },
+    {
+      "name": "Polite Society",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner4.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "Polite Society is a 2023 British martial arts action comedy film written and directed by Nida Manzoor. ."
+    },
+    {
+      "name": "Robots",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner5.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind ."
+    },
+    {
+      "name": "Talk To Me",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner1.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "13",
+      "movieType": "Horror",
+      "desc": "Polite Society is a 2023 British martial arts action comedy film written and directed by Nida Manzoor. ."
+    },
+
+    {
+      "name": "Big George Foreman",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner6.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Biography",
+      "desc": "Big George Foreman: The Miraculous Story of the Once and Future Heavyweight Champion of the World is a 2023 American biographical sports drama film ."
+    },
+    {
+      "name": "Sanctuary",
+      "new": true,
+      "imagePath": "./moviesBanner/Banner9.png",
+      "year": "2024",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind ."
+    },
+    {
+      "name": "About My Father",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner2.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "13",
+      "movieType": "Drama",
+      "desc": "Polite Society is a 2023 British martial arts action comedy film written and directed by Nida Manzoor. ."
+    },
+    {
+      "name": "Polite Society",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner4.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "Polite Society is a 2023 British martial arts action comedy film written and directed by Nida Manzoor. ."
+    },
+    {
+      "name": "Robots",
+      "new": false,
+      "imagePath": "./moviesBanner/Banner5.png",
+      "year": "2023",
+      "language": "English",
+      "UA": "18",
+      "movieType": "Action",
+      "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind ."
+    }
+  ]
+}

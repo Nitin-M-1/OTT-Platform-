@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+:root {
+  --background-color: #16171a;
+  --loginBtn-color: #3d95e9;
+  --signIn-color: #0054a4;
+  --light-white: #b2b2b2;
+  --white: white;
+  --movies-title-color: #d7d7d7;
+  --orange: #ff9f0a;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+  font-family: "Lato", sans-serif;
+}
+body {
+  background-color: var(--background-color);
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  text-decoration: none;
+}
