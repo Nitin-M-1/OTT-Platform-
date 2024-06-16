@@ -1,6 +1,7 @@
-# vue-project
+# OTT Platform 
 
-This template should help get you started developing with Vue 3 in Vite.
+## Website Link
+<a href="https://665db5abff9037000884d3b8--rad-biscochitos-08d778.netlify.app/"> Visit Website </a>
 
 ## Recommended IDE Setup
 
