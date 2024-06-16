@@ -1,7 +1,7 @@
 # OTT Platform 
 
 ## Website Link
-<a href="https://665db5abff9037000884d3b8--rad-biscochitos-08d778.netlify.app/"> Visit Website </a>
+<a href="https://665db5abff9037000884d3b8--rad-biscochitos-08d778.netlify.app/" target="_blank"> Visit Website </a>
 
 ## Recommended IDE Setup
 
