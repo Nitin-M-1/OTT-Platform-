@@ -3,13 +3,12 @@
 ## Website Link
 <a href="https://665db5abff9037000884d3b8--rad-biscochitos-08d778.netlify.app/" target="_blank"> Visit Website </a>
 
-## Recommended IDE Setup
+## Images 
+<img src="https://raw.githubusercontent.com/Nitin-M-1/OTT-Platform-/master/ProjectInformation/img1.png" alt="" />
+<img src="https://raw.githubusercontent.com/Nitin-M-1/OTT-Platform-/master/ProjectInformation/img2.png" alt="" />
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+# figma Design 
+<img src="https://raw.githubusercontent.com/Nitin-M-1/OTT-Platform-/master/ProjectInformation/image.png" alt="" />
 
 ## Project Setup
 
