@@ -1,4 +1,4 @@
-# OTT Platform 
+# OTT Platform (Front End Design) 
 
 ## Website Link
 <a href="https://665db5abff9037000884d3b8--rad-biscochitos-08d778.netlify.app/" target="_blank"> Visit Website </a>
